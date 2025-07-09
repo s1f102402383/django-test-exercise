@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.puc
+*.log
+dv.sqlite3u
